@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LinkedList": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Github Workspace\DataStrcure\LinkedList\LinkedList\bin\Debug\net8.0\LinkedList.exe
+D:\Github Workspace\DataStrcure\LinkedList\LinkedList\bin\Debug\net8.0\LinkedList.deps.json
+D:\Github Workspace\DataStrcure\LinkedList\LinkedList\bin\Debug\net8.0\LinkedList.runtimeconfig.json
+D:\Github Workspace\DataStrcure\LinkedList\LinkedList\bin\Debug\net8.0\LinkedList.dll
+D:\Github Workspace\DataStrcure\LinkedList\LinkedList\bin\Debug\net8.0\LinkedList.pdb
+D:\Github Workspace\DataStrcure\LinkedList\LinkedList\obj\Debug\net8.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Workspace\DataStrcure\LinkedList\LinkedList\obj\Debug\net8.0\LinkedList.AssemblyInfoInputs.cache
+D:\Github Workspace\DataStrcure\LinkedList\LinkedList\obj\Debug\net8.0\LinkedList.AssemblyInfo.cs
+D:\Github Workspace\DataStrcure\LinkedList\LinkedList\obj\Debug\net8.0\LinkedList.csproj.CoreCompileInputs.cache
+D:\Github Workspace\DataStrcure\LinkedList\LinkedList\obj\Debug\net8.0\LinkedList.sourcelink.json
+D:\Github Workspace\DataStrcure\LinkedList\LinkedList\obj\Debug\net8.0\LinkedList.dll
+D:\Github Workspace\DataStrcure\LinkedList\LinkedList\obj\Debug\net8.0\refint\LinkedList.dll
+D:\Github Workspace\DataStrcure\LinkedList\LinkedList\obj\Debug\net8.0\LinkedList.pdb
+D:\Github Workspace\DataStrcure\LinkedList\LinkedList\obj\Debug\net8.0\LinkedList.genruntimeconfig.cache
+D:\Github Workspace\DataStrcure\LinkedList\LinkedList\obj\Debug\net8.0\ref\LinkedList.dll
